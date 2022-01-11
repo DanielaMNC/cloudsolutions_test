@@ -4,4 +4,4 @@ Esse repositorio consiste no código de uma página PHP que utiliza bootstrap. A
 
 
 ### bando de dados
-Para construção dos bancos e tabelas, use o arquivo "cloudsolutions_test\database\SQL_dump.sql"
+Para construção do banco e tabelas, use o arquivo "cloudsolutions_test\database\SQL_dump.sql"
